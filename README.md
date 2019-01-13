@@ -21,5 +21,6 @@ partitions are made to keep bits organised.
 
 # Notes
 
-840x320x410mm 19mm ply on 60mm coasters. top of shelf is 140mm from cabinet top.
-coated in oil-based polyutherane colouring it too yellow.
+840x320x410mm 19mm ply on 60mm coasters. Glued and screwed. Top of shelf is
+140mm from cabinet top.  coated in oil-based polyutherane colouring it too
+yellow.
